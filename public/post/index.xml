@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ali Saidi</title>
+    <link>https://alisaidiportfolio.github.io/post/</link>
+    <description>Recent content in Projects on Ali Saidi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://alisaidiportfolio.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: ChatBot Tunisien</title>
+      <link>https://alisaidiportfolio.github.io/post/project-2/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisaidiportfolio.github.io/post/project-2/</guid>
+      <description>1-pipeline:
+•tokenize lines (split lines into words in the same list)
+•eliminate duplicated words and word have same sense with lemmatizer
+•Preparing data by transforming words in the list into numerical values, create the bag of words (exemple : Our list after tokenize -&amp;gt;[hi, bye, I, will, go, eat, play, too, football, see, u, watch, champions, league] -&amp;gt;length=13 Line 1-&amp;gt; hi, I will go to eat [1,0,1,1,1,0,1,0,0,0,0,0,0]-&amp;gt;same length: refer to eat tag</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Sales Insights India Hardware Company AtliQ</title>
+      <link>https://alisaidiportfolio.github.io/post/chapter-1/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisaidiportfolio.github.io/post/chapter-1/</guid>
+      <description>•Data Analysis Using SQL
+•Data Cleaning &amp;amp; ETL(extract transform load ) Using Power BI based on DAX language
+•identify important features that influence the profit and revenue (KPI)
+•Build Dashboard Or a Report
+•Publish A Report
+•dashboard in mobile application(responsive)
+•give a feedback (report) to the manager to make decisions
+Link To GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

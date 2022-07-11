@@ -1,0 +1,47 @@
+title = "Ali Saidi"
+baseURL = "https://alisaidiportfolio.github.io/"
+languageCode = "en-us"
+theme = "ananke"
+#resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+canonifyURLs=true
+
+[languages]
+  [languages.en]
+    title = "Ali Saidi"
+    weight = 1
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+  
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  dateFormat = "02 Jan 2006"
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+   facebook="https://www.facebook.com/ali.saidi.14"
+   linkedin="https://www.linkedin.com/in/ali-saidi-431857210/"
+   github="https://github.com/AliSaidiPortfolio"
+   gitlab="https://gitlab.com/ali.saidi"
+   
+ 
+
+#[[params.ananke_socials]]
+#name = "twitter"
+#url = "https://twitter.com/GoHugoIO"
+
+
